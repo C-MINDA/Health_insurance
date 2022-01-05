@@ -1,2 +1,2 @@
 # health_insurance
-Machine Learning Project: Classification 
+Machine Learning Project: Classification Project 
