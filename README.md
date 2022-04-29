@@ -1,7 +1,7 @@
 # health_insurance
 Machine Learning Project: Classification
 
-Background
+**Background**
 
 Lots of non-tech companies are quite conservative in adopting analytic tools. This phenomenon is even more severe in highly regulated industries, like finance and healthcare. For example, in one fortune 500 bank, there is a team consisting of about 20 Ph.D.s focusing on evaluating model risks. All models need this team’s approval to be adopted widely across the company. There are cases that several employees used three months to develop a model but fail to obtain permission. In general, the models with good interpretability is easier to pass the review. Unfortunately, those models tend to perform worse than the hard-to-explain ones. This means that the managers might be unsatisfied with the performance, and one could not submit the model in the first place. In this project, you will try to pass this review with a model with decent performance.
 
